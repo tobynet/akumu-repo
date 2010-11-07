@@ -4,7 +4,7 @@ akumu-repo
 What is This?
 =============
 
-This is nightmare repogitory.
+This is nightmare repogitory for version control systems.
 
 Copyright
 =========
